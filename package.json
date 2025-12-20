@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "@miniben90/x-win": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}

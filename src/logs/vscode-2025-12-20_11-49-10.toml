@@ -1,0 +1,26 @@
+[session]
+id = "2025-12-20_11-49-10"
+started_at = "2025-12-20T11:49:10.421Z"
+ended_at = "2025-12-20T11:49:13.550Z"
+total_active_ms = 2_124
+total_active_human = "0h 0m 2s"
+
+[vscode]
+process_id = 47_401
+name = "Code"
+exec_name = "Visual Studio Code.app"
+path = "/Applications/Visual Studio Code.app"
+
+[window]
+id = 4_378
+title = ""
+
+  [window.position]
+  x = 0
+  y = 0
+  width = 1_680
+  height = 1_050
+  isFullScreen = true
+
+  [window.usage]
+  memory = 2_368

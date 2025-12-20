@@ -1,0 +1,6 @@
+[package]
+name = "how_much_vscode"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+toml = "*"

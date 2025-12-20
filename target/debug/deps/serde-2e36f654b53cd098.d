@@ -1,0 +1,14 @@
+/Users/pradyotranjan/how-much-vscode/target/debug/deps/serde-2e36f654b53cd098.d: /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/pradyotranjan/how-much-vscode/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/pradyotranjan/how-much-vscode/target/debug/deps/libserde-2e36f654b53cd098.rlib: /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/pradyotranjan/how-much-vscode/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/pradyotranjan/how-much-vscode/target/debug/deps/libserde-2e36f654b53cd098.rmeta: /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/pradyotranjan/how-much-vscode/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/pradyotranjan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/pradyotranjan/how-much-vscode/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/pradyotranjan/how-much-vscode/target/debug/build/serde-ffe1212ea6083ba8/out
