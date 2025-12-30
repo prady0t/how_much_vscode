@@ -1,0 +1,11 @@
+[package]
+name = "test_project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+# Use the local workspace `tplay` crate as a dependency. Adjust `path` if your layout differs.
+# Note: `tplay` depends on native libraries (ffmpeg/opencv). Install those on your system
+# before building anything that uses video/audio features.
+tplay = { path = "../tplay" }
