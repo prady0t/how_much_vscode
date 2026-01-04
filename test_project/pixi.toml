@@ -20,6 +20,6 @@ mpv = ">=0.34,<0.36"
 
 [tasks]
 build = { description = "Build the test_project using cargo", cmd = "cargo build" }
-run   = { description = "Run the test_project",               cmd = "cargo run" }
+run = { description = "Run the test_project", cmd = "cargo run", env = { DYLD_LIBRARY_PATH = "$CONDA_PREFIX/lib" }}
 test  = { description = "Run cargo test",                     cmd = "cargo test" }
 check = { description = "Fast check using cargo check",        cmd = "cargo check" }
